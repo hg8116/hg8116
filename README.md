@@ -1,3 +1,5 @@
+![Banner](https://github.com/hg8116/hg8116/blob/main/Banner.png)
+============================
 Hi 👋 My name is Harsh Gupta
 ============================
 
