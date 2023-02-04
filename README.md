@@ -9,7 +9,7 @@ Web Developer & Engineer
 I am in sophomore year and currently pursuing a B.Tech in CSE from the Kalinga Insitute of Industrial Technology. Have a keen interest in today's technology. Open to learning and collaborating ☕
 
 * 👾  What if there were no hypothetical questions?
-* 🖥️  See my portfolio at [here!](https://stunning-paprenjak-a82dca.netlify.app/)
+* 🖥️  See my portfolio at [here!](https://hg8116.github.io/)
 * 🌍  I'm based in India
 * ✉️  You can contact me at [2011.harshgupta@gmail.com](mailto:2011.harshgupta@gmail.com)
 * 🤝  I'm open to collaborating on Web Development Projects
